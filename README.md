@@ -16,12 +16,3 @@
 <div align="center">
   <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fajarxyta&layout=compact&theme=chartreuse-dark">
 </div>
-
-
-## ⚡ Technologies
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fajarxyta&count_private=true&show_icons=true&include_all_commits=true)
