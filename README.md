@@ -1,10 +1,9 @@
 # Hey There! I'm [Fajar](https://github.com/Fajarxyta) 👋
-
-I'm a passionate developer with expertise in various programming languages and technologies. I enjoy creating innovative solutions and sharing my knowledge with the community. Welcome to my GitHub profile!
+<p align="center">
+  <img width="70%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Fajarxyta&show_icons=true&theme=chartreuse-dark&locale=id">
+</p>
 
 <h3 align="center" style="font-size: 2.5vw; margin-top: 0vw;">Python Developer</h3>
-
-
 
 <p align="center" width="100%" height="auto">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Fajarxyta"/>
