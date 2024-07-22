@@ -15,7 +15,7 @@ I'm a passionate developer with expertise in various programming languages and t
 <br>
 
 <div align="center">
-  <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapunta&layout=compact&theme=chartreuse-dark">
+  <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fajarxyta&layout=compact&theme=chartreuse-dark">
 </div>
 
 
