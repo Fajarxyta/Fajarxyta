@@ -4,8 +4,6 @@
 
 🎉 Selamat datang di halaman GitHub saya! 🎉
 
-Saya adalah seorang **Pengembang Python** yang suka mengotak-atik kode dan membuat proyek-proyek menarik. Jika Anda juga penggemar Python, maka Anda berada di tempat yang tepat! 🚀
-
 ## 📊 Statistik GitHub
 ![Fajarxyta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fajarxyta&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fajarxyta&layout=compact&theme=tokyonight)
