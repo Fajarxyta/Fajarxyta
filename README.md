@@ -1,50 +1,76 @@
-# Halo! Saya Fajar 👋
+<h1 align="center">Halo! Saya Fajar 👋</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Fajarxyta&style=flat-square)
+<p align="center">
+  <img src="https://github.com/Fajarxyta.png" alt="Fajarxyta" width="150" height="150">
+</p>
 
-## 📊 Statistik GitHub
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-    <div style="flex: 1; min-width: 300px; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Fajarxyta&show_icons=true&theme=radical&count_private=true" alt="Fajarxyta's GitHub Stats">
-        <p><strong>GitHub Stats</strong></p>
-    </div>
-    <div style="flex: 1; min-width: 300px; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fajarxyta&layout=compact&theme=radical" alt="Top Languages">
-        <p><strong>Top Languages</strong></p>
-    </div>
-    <div style="flex: 1; min-width: 300px; text-align: center;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fajarxyta&theme=radical" alt="Streak Stats">
-        <p><strong>Streak Stats</strong></p>
-    </div>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fajarxyta&color=blue" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/Fajarxyta?label=Followers&style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/Fajarxyta?label=Stars&style=social" alt="GitHub Stars">
+</p>
 
-## 🔥 Proyek Unggulan
-<table>
-    <tr>
-        <td>
-            <h3><a href="https://github.com/Fajarxyta/FAJINSTA">FAJINSTA</a> 🌟</h3>
-            <p>Automatisasi Instagram dengan Python yang memudahkan manajemen dan interaksi akun Instagram Anda.</p>
-        </td>
-        <td>
-            <h3><a href="https://github.com/Fajarxyta/FACBOX">FACBOX</a> 📦</h3>
-            <p>Alat manajemen interaksi Facebook yang membantu Anda mengelola berbagai aspek akun Facebook dengan efisiensi tinggi.</p>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2">
-            <h3><a href="https://github.com/Fajarxyta/FaceAutoShare">FaceAutoShare</a> 🤖</h3>
-            <p>Solusi berbagi otomatis untuk Facebook yang menyederhanakan proses posting dan berbagi konten.</p>
-        </td>
-    </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Fajarxyta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://facebook.com/Fajarxyta"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+</p>
 
-## 💡 Temukan Lebih Banyak
-<p>Eksplorasi lebih banyak proyek dan kontribusi saya di <a href="https://github.com/Fajarxyta?tab=repositories">repositori GitHub saya</a>.</p>
+<h2 align="center">📊 Statistik GitHub</h2>
 
-## 🤝 Kontak & Kolaborasi
-<p>Saya selalu terbuka untuk diskusi, ide, dan peluang kolaborasi. Jangan ragu untuk menghubungi saya melalui:</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fajarxyta&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fajarxyta&theme=radical" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fajarxyta&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+<h2 align="center">🔥 Proyek Unggulan</h2>
+
 <ul>
-    <li><strong>GitHub</strong>: <a href="https://github.com/Fajarxyta">Fajarxyta</a></li>
-    <li><strong>Facebook</strong>: <a href="https://facebook.com/Fajarxyta">Fajarxyta</a></li>
+  <li>
+    <h3><a href="https://github.com/Fajarxyta/FAJINSTA">FAJINSTA 🌟</a></h3>
+    <p>Automatisasi Instagram dengan Python yang memudahkan manajemen dan interaksi akun Instagram Anda.</p>
+  </li>
+  <li>
+    <h3><a href="https://github.com/Fajarxyta/FACBOX">FACBOX 👊</a></h3>
+    <p>Alat manajemen interaksi Facebook yang membantu Anda mengelola berbagai aspek akun Facebook dengan efisiensi tinggi.</p>
+  </li>
+  <li>
+    <h3><a href="https://github.com/Fajarxyta/FaceAutoShare">FaceAutoShare 🤖</a></h3>
+    <p>Solusi berbagi otomatis untuk Facebook yang menyederhanakan proses posting dan berbagi konten.</p>
+  </li>
 </ul>
-<p>Mari kita wujudkan ide-ide inovatif dan menciptakan sesuatu yang luar biasa bersama! 🌟</p>
+
+<h2 align="center">🔧 Teknologi & Alat yang Digunakan</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+<h2 align="center">💡 Temukan Lebih Banyak</h2>
+<p align="center">
+  Eksplorasi lebih banyak proyek dan kontribusi saya di <a href="https://github.com/Fajarxyta?tab=repositories">repositori GitHub saya</a>.
+</p>
+
+<h2 align="center">📬 Kontak & Kolaborasi</h2>
+<p align="center">
+  Saya selalu terbuka untuk diskusi, ide, dan peluang kolaborasi. Jangan ragu untuk menghubungi saya melalui:
+</p>
+<p align="center">
+  <a href="https://github.com/Fajarxyta">GitHub: Fajarxyta</a> | <a href="https://facebook.com/Fajarxyta">Facebook: Fajarxyta</a> | <a href="https://linkedin.com/in/fajarxyta">LinkedIn: Fajarxyta</a>
+</p>
+<p align="center">
+  Mari kita wujudkan ide-ide inovatif dan menciptakan sesuatu yang luar biasa bersama! 🌟
+</p>
+
+<p align="center">
+  <img src="https://github.com/akshay-ashok/GitHub-Profile-Readme-Generator/blob/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile Contributions">
+</p>
