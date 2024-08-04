@@ -56,12 +56,8 @@
   Saya selalu terbuka untuk diskusi, ide, dan peluang kolaborasi. Jangan ragu untuk menghubungi saya melalui:
 </p>
 <p align="center">
-  <a href="https://github.com/Fajarxyta">GitHub: Fajarxyta</a> | <a href="https://facebook.com/Fajarxyta">Facebook: Fajarxyta</a> | <a href="https://linkedin.com/in/fajarxyta">LinkedIn: Fajarxyta</a>
+  <a href="https://github.com/Fajarxyta">GitHub: Fajarxyta</a> | <a href="https://facebook.com/Fajarxyta">Facebook: Fajarxyta</a>
 </p>
 <p align="center">
   Mari kita wujudkan ide-ide inovatif dan menciptakan sesuatu yang luar biasa bersama! 🌟
-</p>
-
-<p align="center">
-  <img src="https://github.com/akshay-ashok/GitHub-Profile-Readme-Generator/blob/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile Contributions">
 </p>
