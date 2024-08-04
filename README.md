@@ -1,27 +1,28 @@
-# Hey There! I'm [Fajar](https://github.com/Fajarxyta) 👋
-<p align="center">
-  <img width="70%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Fajarxyta&show_icons=true&theme=chartreuse-dark&locale=id">
-</p>
+# Halo! Saya Fajar 👋
 
-<h3 align="center" style="font-size: 2.5vw; margin-top: 0vw;">Python Developer</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=Fajarxyta&style=flat-square)
 
-<p align="center" width="100%" height="auto">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Fajarxyta"/>
-    <img src="https://img.shields.io/github/followers/Fajarxyta?style=flat"/>
-    <img src="https://img.shields.io/github/stars/Fajarxyta?style=flat"/>
-</p>
+🎉 Selamat datang di halaman GitHub saya! 🎉
 
-<br>
+Saya adalah seorang **Pengembang Python** yang suka mengotak-atik kode dan membuat proyek-proyek menarik. Jika Anda juga penggemar Python, maka Anda berada di tempat yang tepat! 🚀
 
-<div align="center">
-  <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fajarxyta&layout=compact&theme=chartreuse-dark">
-</div>
+## 📊 Statistik GitHub
+![Fajarxyta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fajarxyta&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fajarxyta&layout=compact&theme=tokyonight)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Fajarxyta&theme=tokyonight)
 
-<div align="center" style="margin-top: 3%;">
-  <a href="https://www.github.com/Fajarxyta"><img width="6.5%" height="6.5%" style="background: linear-gradient(to right, #009BFF, #5ABEFF); border-radius: 3px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/GitHub_font_awesome.svg"></a>
-  <a href="https://www.facebook.com/100055310567886"><img width="6.5%" height="6.5%" style="background: linear-gradient(to right, #009BFF, #5ABEFF); border-radius: 3px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Facebook_font_awesome.svg"></a>
-</div>
+## 🔥 Proyek Terbaik
+- [**FAJINSTA**](https://github.com/Fajarxyta/FAJINSTA) 🌟: Otomatisasi Instagram menggunakan Python.
+- [**FACBOX**](https://github.com/Fajarxyta/FACBOX) 📦: Alat manajemen interaksi Facebook.
+- [**FaceAutoShare**](https://github.com/Fajarxyta/FaceAutoShare) 🤖: Alat berbagi otomatis untuk Facebook.
 
-<p align="center" style="font-size: 2vw; margin-top: -1%; margin-bottom: 1%;">
-  Contact Me!
-</p>
+Temukan lebih banyak proyek di [repositori saya](https://github.com/Fajarxyta?tab=repositories). 💡
+
+## 📬 Kontak & Kolaborasi
+Saya selalu terbuka untuk diskusi dan kolaborasi proyek baru. Jangan ragu untuk menghubungi saya melalui:
+- GitHub: [Fajarxyta](https://github.com/Fajarxyta)
+- Facebook: [Fajarxyta](https://facebook.com/Fajarxyta)
+
+Mari kita ciptakan sesuatu yang luar biasa bersama! 🌟
+
+---
