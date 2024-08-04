@@ -11,7 +11,7 @@ Saya adalah seorang **Pengembang Python** yang suka mengotak-atik kode dan membu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fajarxyta&layout=compact&theme=tokyonight)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Fajarxyta&theme=tokyonight)
 
-## 🔥 Proyek Terbaik
+## 🔥 Proyek
 - [**FAJINSTA**](https://github.com/Fajarxyta/FAJINSTA) 🌟: Otomatisasi Instagram menggunakan Python.
 - [**FACBOX**](https://github.com/Fajarxyta/FACBOX) 📦: Alat manajemen interaksi Facebook.
 - [**FaceAutoShare**](https://github.com/Fajarxyta/FaceAutoShare) 🤖: Alat berbagi otomatis untuk Facebook.
