@@ -21,14 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Fajarxyta&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fajarxyta&theme=radical" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fajarxyta&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
 <h2 align="center">🔥 Proyek Unggulan</h2>
 
 <ul>
