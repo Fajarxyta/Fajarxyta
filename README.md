@@ -18,25 +18,9 @@
 <h2 align="center">📊 Statistik GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fajarxyta&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img width=500 src="https://github-readme-stats.vercel.app/api?username=Fajarxyta&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img width=500 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fajarxyta&theme=radical" alt="Orbiting-tools">
 </p>
-
-<h2 align="center">🔥 Proyek Unggulan</h2>
-
-<ul>
-  <li>
-    <h3><a href="https://github.com/Fajarxyta/FAJINSTA">FAJINSTA 🌟</a></h3>
-    <p>Automatisasi Instagram dengan Python yang memudahkan manajemen dan interaksi akun Instagram Anda.</p>
-  </li>
-  <li>
-    <h3><a href="https://github.com/Fajarxyta/FACBOX">FACBOX 👊</a></h3>
-    <p>Alat manajemen interaksi Facebook yang membantu Anda mengelola berbagai aspek akun Facebook dengan efisiensi tinggi.</p>
-  </li>
-  <li>
-    <h3><a href="https://github.com/Fajarxyta/FaceAutoShare">FaceAutoShare 🤖</a></h3>
-    <p>Solusi berbagi otomatis untuk Facebook yang menyederhanakan proses posting dan berbagi konten.</p>
-  </li>
-</ul>
 
 <h2 align="center">💡 Temukan Lebih Banyak</h2>
 <p align="center">
