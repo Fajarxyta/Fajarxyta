@@ -18,8 +18,8 @@
 <h2 align="center">📊 Statistik GitHub</h2>
 
 <p align="center">
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=Fajarxyta&show_icons=true=themes=black" alt="GitHub Stats">
-  <img width=500 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fajarxyta=themes=black" alt="Orbiting-tools">
+  <img width=500 src="https://github-readme-stats.vercel.app/api?username=Fajarxyta&show_icons=true" alt="GitHub Stats">
+  <img width=500 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fajarxyta" alt="Orbiting-tools">
 </p>
 
 <h2 align="center">💡 Temukan Lebih Banyak</h2>
