@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/Fajarxyta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="[https://www.facebook.com/fajarxyta15](https://www.facebook.com/fajarxyta15)"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.facebook.com/fajarxyta15"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
 <h2 align="center">📊 Statistik GitHub</h2>
@@ -32,7 +32,7 @@
   Saya selalu terbuka untuk diskusi, ide, dan peluang kolaborasi. Jangan ragu untuk menghubungi saya melalui:
 </p>
 <p align="center">
-  <a href="https://github.com/Fajarxyta">GitHub: Fajarxyta</a> | <a href="https://facebook.com/Fajarxyta">Facebook: Fajarxyta</a>
+  <a href="https://github.com/Fajarxyta">GitHub: Fajarxyta</a> | <a href="https://facebook.com/fajarxyta15">Facebook: Fajarxyta</a>
 </p>
 <p align="center">
   Mari kita wujudkan ide-ide inovatif dan menciptakan sesuatu yang luar biasa bersama! 🌟
