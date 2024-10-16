@@ -21,8 +21,3 @@
 <p align="center">
   Eksplorasi lebih banyak proyek dan kontribusi saya di <a href="https://github.com/Fajarxyta?tab=repositories">repositori GitHub saya</a>.
 </p>
-
-<p align="center">
-  <img width=60 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white(https://www.instagram.com/fajarxy_1)" alt="Instagram">
-  <img width="60" src="https://img.shields.io/badge/-WhatsApp-%23232D25?style=flat&logo=whatsapp&logoColor=white(https://wa.me/625894841695)" alt="WhatsApp">  
-</p>
