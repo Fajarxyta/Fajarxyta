@@ -22,11 +22,7 @@
   Eksplorasi lebih banyak proyek dan kontribusi saya di <a href="https://github.com/Fajarxyta?tab=repositories">repositori GitHub saya</a>.
 </p>
 
-<h2 align="center">📬 Kontak & Kolaborasi</h2>
 <p align="center">
-  Saya selalu terbuka untuk diskusi, ide, dan peluang kolaborasi. Jangan ragu untuk menghubungi saya melalui:
+  <img width=60 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white(https://www.instagram.com/fajarxy_1)" alt="Instagram">
+  <img width="60" src="https://img.shields.io/badge/-WhatsApp-%23232D25?style=flat&logo=whatsapp&logoColor=white(https://wa.me/625894841695)" alt="WhatsApp">  
 </p>
-
-
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fajarxy_1)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-%23232D25?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/625894841695)
