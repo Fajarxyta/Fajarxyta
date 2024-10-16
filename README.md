@@ -14,7 +14,7 @@
 
 <p align="center">
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=Fajarxyta&show_icons=true" alt="GitHub Stats">
-  <img width=500 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fajarxyta" alt="Orbiting-tools">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fajarxyta)
 </p>
 
 <h2 align="center">💡 Temukan Lebih Banyak</h2>
@@ -26,9 +26,7 @@
 <p align="center">
   Saya selalu terbuka untuk diskusi, ide, dan peluang kolaborasi. Jangan ragu untuk menghubungi saya melalui:
 </p>
-<p align="center">
-  <a href="https://github.com/Fajarxyta">GitHub: Fajarxyta</a> | <a href="https://facebook.com/fajarxyta15">Facebook: Fajarxyta</a>
-</p>
-<p align="center">
-  Mari kita wujudkan ide-ide inovatif dan menciptakan sesuatu yang luar biasa bersama! 🌟
-</p>
+
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fajarxy_1)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-%23232D25?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/625894841695)
