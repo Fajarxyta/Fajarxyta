@@ -14,7 +14,7 @@
 
 <p align="center">
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=Fajarxyta&show_icons=true" alt="GitHub Stats">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fajarxyta)
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Fajarxyta" alt="Github Streak">  
 </p>
 
 <h2 align="center">💡 Temukan Lebih Banyak</h2>
