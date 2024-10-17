@@ -21,3 +21,7 @@
 <p align="center">
   Eksplorasi lebih banyak proyek dan kontribusi saya di <a href="https://github.com/Fajarxyta?tab=repositories">repositori GitHub saya</a>.
 </p>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
