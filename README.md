@@ -15,7 +15,7 @@
 <p align="center">
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=Fajarxyta&show_icons=true" alt="GitHub Stats">
   <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Fajarxyta" alt="Github Streak">
-  <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fajarxyta&layout=compact&theme=radical" alt="">
+  <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fajarxyta&layout=compact&theme=radical">
 </p>
 
 <h2 align="center">💡 Temukan Lebih Banyak</h2>
