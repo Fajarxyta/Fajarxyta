@@ -13,16 +13,14 @@
 <h2 align="center">📊 Statistik GitHub</h2>
 
 <p align="center">
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=Fajarxyta&show_icons=true" alt="GitHub Stats">
-  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Fajarxyta" alt="Github Streak">
-  <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fajarxyta&layout=compact">
+  <img width=350 src="https://github-readme-stats.vercel.app/api?username=Fajarxyta&show_icons=true" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img width=310 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fajarxyta&layout=compact">
 </p>
 
 <h2 align="center">💡 Temukan Lebih Banyak</h2>
 <p align="center">
   Eksplorasi lebih banyak proyek dan kontribusi saya di <a href="https://github.com/Fajarxyta?tab=repositories">repositori GitHub saya</a>.
-</p>
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
